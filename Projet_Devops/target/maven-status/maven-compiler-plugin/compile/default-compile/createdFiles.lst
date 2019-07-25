@@ -1,0 +1,6 @@
+session\EtudiantFacadeLocal.class
+session\EtudiantFacade.class
+entities\Etudiant_.class
+session\AbstractFacade.class
+controller\EtudiantController.class
+entities\Etudiant.class
